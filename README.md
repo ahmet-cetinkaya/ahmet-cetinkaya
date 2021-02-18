@@ -10,7 +10,9 @@
   <a href="https://www.linkedin.com/in/ahmet-cetinkaya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:ahmetcetinkaya4@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
 </p>
-<a href="https://ahmetcetinkaya.info/"><h1 align="center">ahmetcetinkaya.info</h1></a>
+<h1 align='center'>
+  <a href="https://ahmetcetinkaya.info/">ahmetcetinkaya.info</a>
+</h1>
 
 
 <hr>
