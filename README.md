@@ -11,7 +11,7 @@
  <a href="mailto:ahmetcetinkaya4@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
 </p>
 <h1 align='center'>
-  <a href="https://ahmetcetinkaya.info/">ahmetcetinkaya.info</a>
+  <a href="https://ahmetcetinkaya.info/" target="_blank">ahmetcetinkaya.info</a>
 </h1>
 
 
