@@ -1,0 +1,16 @@
+name: Latest gists workflow
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest gists
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: 'GISTS'
+          commit_message: '📝 Updated nane readme with the latest gists data'
+          feed_list: 'http://fetchrss.com/rss/608e9c0e204a681b92413fc2608e9b2bb4014435bc34fe72.xml'
