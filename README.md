@@ -12,8 +12,10 @@
  <a href="https://ahmetcetinkaya.info/"><img src="https://img.shields.io/badge/ahmetcetinkaya.info-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" /></a>
 </p>
 
-<a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmet-cetinkaya&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-cetinkaya&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
+<a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmet-cetinkaya&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&icon_color=F4D03E&hide_border=true" /></a>
+<a href="https://github.com/ahmet-cetinkaya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-cetinkaya&bg_color=0d1117&text_color=bdc3c7&title_color=F4D03E&hide_border=true&layout=compact&langs_count=10" /></a>
+
+[![hrms-project-backend](https://github-readme-stats.vercel.app/api/pin/?username=ahmet-cetinkaya&repo=hrms-project-backend&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D)](https://github.com/ahmet-cetinkaya/hrms-project-backend)
 
 ## <a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://img.shields.io/badge/Latest-Gists-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
