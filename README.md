@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Ahmet Çetinkaya</h1>
+<h1 align='center'> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Ahmet Çetinkaya</h1>
 
 <p align='center'>
   I am studying Computer Engineering at <b>Mehmet Akif Ersoy University</b>. 
