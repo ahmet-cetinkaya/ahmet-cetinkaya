@@ -25,6 +25,7 @@
 
 <p align='center'>
 <a href="https://github.com/ahmet-cetinkaya/hrms-project-backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmet-cetinkaya&repo=hrms-project-backend&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" /></a>
+  <a href="https://github.com/ahmet-cetinkaya/hrms-project-frontend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmet-cetinkaya&repo=hrms-project-frontend&title_color=fff&icon_color=F4D03E&text_color=9f9f9f&bg_color=0d1117&border_color=30363D" /></a>
 </p>
 
 ## <a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://img.shields.io/badge/Latest-Gists-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
