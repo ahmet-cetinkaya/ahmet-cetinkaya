@@ -20,9 +20,9 @@
 ## <a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://img.shields.io/badge/Latest-Gists-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <!-- GISTS:START -->
+- [Perfect Numbers - Javascript](https://gist.github.com/ahmet-cetinkaya/51a8a6cb0554978beadacd71dd90eafb)
+- [Friendly Numbers - Javascript](https://gist.github.com/ahmet-cetinkaya/d51d4063e0c0f97cb9486b5e0d5fbee8)
+- [Prime Numbers - Javascript](https://gist.github.com/ahmet-cetinkaya/18628fadb6dcf08088e830df856f7130)
 - [Leetcode Solution - 205. Isomorphic Strings](https://gist.github.com/ahmet-cetinkaya/ba7ed8a77d067ce98306577cd07ee57a)
 - [Leetcode Solution - 1512. Number of Good Pairs](https://gist.github.com/ahmet-cetinkaya/969e78f3795c0e7838209f01b0d6182d)
-- [HackerRank Solution - Diagonal Difference](https://gist.github.com/ahmet-cetinkaya/bb0ebc0e8be0594bf36de8c69afe7b23)
-- [3. Gün Ödev - kodlama.io Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT)](https://gist.github.com/ahmet-cetinkaya/8344a7e085c9ffcd9b681b8e52dd96fb)
-- [2. Gün Ödev - kodlama.io Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT)](https://gist.github.com/ahmet-cetinkaya/0cc03d7a1b4bfa77d71ec2510da5f4b0)
 <!-- GISTS:END -->
