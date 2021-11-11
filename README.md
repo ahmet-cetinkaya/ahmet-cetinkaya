@@ -20,9 +20,9 @@
 ## <a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://img.shields.io/badge/Latest-Gists-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <!-- GISTS:START -->
+- [Autohotkey script to Auto-close the Voicemeeter windows that open when startup.](https://gist.github.com/ahmet-cetinkaya/0f5f993256bc35b701543895b4fa4571)
 - [Perfect Numbers - Javascript](https://gist.github.com/ahmet-cetinkaya/51a8a6cb0554978beadacd71dd90eafb)
 - [Friendly Numbers - Javascript](https://gist.github.com/ahmet-cetinkaya/d51d4063e0c0f97cb9486b5e0d5fbee8)
 - [Prime Numbers - Javascript](https://gist.github.com/ahmet-cetinkaya/18628fadb6dcf08088e830df856f7130)
 - [Leetcode Solution - 205. Isomorphic Strings](https://gist.github.com/ahmet-cetinkaya/ba7ed8a77d067ce98306577cd07ee57a)
-- [Leetcode Solution - 1512. Number of Good Pairs](https://gist.github.com/ahmet-cetinkaya/969e78f3795c0e7838209f01b0d6182d)
 <!-- GISTS:END -->
