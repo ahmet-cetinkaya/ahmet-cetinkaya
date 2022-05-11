@@ -1,3 +1,7 @@
+[![](https://img.shields.io/badge/My%20Fork%20Repos-100000?style=for-the-badge&logo=GitBook&logoColor=white)](https://github.com/ahmet-cetinkaya-forks) &nbsp;&nbsp;&nbsp;&nbsp; [![](https://img.shields.io/badge/My%20Core%20Repos-100000?style=for-the-badge&logo=GitBook&logoColor=white)](https://github.com/ahmet-cetinkaya-core) &nbsp;&nbsp;&nbsp;&nbsp; [![](https://img.shields.io/badge/My%20Other%20Repos-100000?style=for-the-badge&logo=GitBook&logoColor=white)](https://github.com/ahmet-cetinkaya-other-repos) &nbsp;&nbsp;&nbsp;&nbsp; [![](https://img.shields.io/badge/My%20Old%20Repos-100000?style=for-the-badge&logo=GitBook&logoColor=white)](https://github.com/ahmet-cetinkaya-old-repos)
+
+---
+
 <h1 align='center'> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Ahmet Çetinkaya</h1>
 
 <p align='center'>
@@ -6,9 +10,9 @@
 
 <p align='center'>
   <a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<!--  <a href="https://twitter.com/ahmet4cetinkaya"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
   <a href="https://www.linkedin.com/in/ahmet-cetinkaya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:ahmetcetinkaya7@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!--    <a href="https://twitter.com/ahmetctnky_dev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
  <a href="https://ahmetcetinkaya.me/"><img src="https://img.shields.io/badge/ahmetcetinkaya.me-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ahmet-cetinkaya&countColor=%237B1E7A" /></a>
 </p>
