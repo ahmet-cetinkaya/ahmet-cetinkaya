@@ -1,7 +1,7 @@
 <a href="https://github.com/ahmet-cetinkaya-forks"><img src="https://user-images.githubusercontent.com/53148314/167849898-181e9db8-cab3-4e92-97d4-69ca5a7f5a21.svg" width="150"></a>
 <a href="https://github.com/ahmet-cetinkaya-core"><img src="https://user-images.githubusercontent.com/53148314/167849894-c2071306-a0e2-4171-a6ca-7f6522cf927a.svg" width="150"></a>
-<a href="https://github.com/ahmet-cetinkaya-other-repos"><img src="https://user-images.githubusercontent.com/53148314/167849903-123fe721-3491-479b-9a81-931dd28b0e6e.svg" width="150"></a>
-<a href="https://github.com/ahmet-cetinkaya-old-repos"><img src="https://user-images.githubusercontent.com/53148314/167849902-1813382d-03bf-40cf-b98a-99631c8a3b87.svg" width="150"></a>
+<a href="https://github.com/ahmet-cetinkaya-other"><img src="https://user-images.githubusercontent.com/53148314/167849903-123fe721-3491-479b-9a81-931dd28b0e6e.svg" width="150"></a>
+<a href="https://github.com/ahmet-cetinkaya-old"><img src="https://user-images.githubusercontent.com/53148314/167849902-1813382d-03bf-40cf-b98a-99631c8a3b87.svg" width="150"></a>
 
 <br>
 
