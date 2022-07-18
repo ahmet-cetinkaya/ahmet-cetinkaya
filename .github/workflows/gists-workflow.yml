@@ -13,4 +13,4 @@ jobs:
         with:
           comment_tag_name: 'GISTS'
           commit_message: '📝 Updated nane readme with the latest gists data'
-          feed_list: 'http://fetchrss.com/rss/608e9c0e204a681b92413fc2608e9b2bb4014435bc34fe72.xml'
+          feed_list: 'http://fetchrss.com/rss/62d545e46f79e91db848c2c262d54694f06c6f77641a30f2.xml'
