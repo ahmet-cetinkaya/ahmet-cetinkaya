@@ -18,7 +18,9 @@
 <a href="https://github.com/ahmet-cetinkaya"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ahmet-cetinkaya&countColor=%237B1E7A" /></a>
 </p>
 
+<p align='center'>
 <a href="https://github.com/ahmet-cetinkaya"><img align="center" src="/github-metrics.svg" /></a><a href="https://github.com/ahmet-cetinkaya"><img align="center" src="/github-metrics.plugin.languages.indepth.svg" /></a>
+</p>
 
 ## <a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://img.shields.io/badge/Latest-Gists-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
