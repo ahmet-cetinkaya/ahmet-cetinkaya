@@ -12,7 +12,20 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: 🗃️ Base content - Default metrics
+        uses: lowlighter/metrics@latest
         with:
-          plugin_languages: yes
           token: ${{ secrets.METRICS_TOKEN }}
+      - name: 🈷️ Languages activity - Most used
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          output_action: none
+          delay: 120
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
