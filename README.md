@@ -13,9 +13,8 @@
 <!--<a href="https://twitter.com/ahmetctnky_dev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
 <a href="mailto:ahmetcetinkaya7@outlook.com"><img src="https://img.shields.io/badge/EMail-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ahmetcetinkaya.me/"><img src="https://img.shields.io/badge/ahmetcetinkaya.me-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ahmet-cetinkaya"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ahmet-cetinkaya&countColor=%237B1E7A" /></a>
+<a href="https://github.com/ahmet-cetinkaya"><img src="https://api.visitorbadge.io/api/VisitorHit?user=ahmet-cetinkaya&countColor=%237B1E7A" /></a>
 </p>
-
 <p align='center'>
 <a href="https://github.com/ahmet-cetinkaya"><img align="center" src="/github-metrics.svg" /></a><a href="https://github.com/ahmet-cetinkaya"><img align="center" src="/github-metrics.plugin.languages.indepth.svg" /></a>
 </p>
