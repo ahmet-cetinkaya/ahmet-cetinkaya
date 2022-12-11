@@ -21,9 +21,9 @@
 ## <a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://img.shields.io/badge/Latest-Gists-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <!-- GISTS:START -->
-- [Leetcode Solution - 322. Coin Change](https://gist.github.com/ahmet-cetinkaya/ebc40f60131111f07546b31f0f87231d)
-- [BTU energy unit deduce in cooling systems with fuzzy logic - MATLAB](https://gist.github.com/ahmet-cetinkaya/c7b34541af6859554d4497dd25742e0a)
-- [Skip Silence Audio and Video Sync Fix - Tampermonkey](https://gist.github.com/ahmet-cetinkaya/50782d593330abc1514cc86a210a8db4)
-- [Autohotkey script to Auto-close the Voicemeeter windows that open when startup.](https://gist.github.com/ahmet-cetinkaya/0f5f993256bc35b701543895b4fa4571)
-- [Perfect Numbers - Javascript](https://gist.github.com/ahmet-cetinkaya/51a8a6cb0554978beadacd71dd90eafb)
+- [Leetcode Solution - 322. Coin Change](https://gist.github.com/ahmet-cetinkaya#0752f12cfa5951335da4d9a332c96f4d)
+- [BTU energy unit deduce in cooling systems with fuzzy logic - MATLAB](https://gist.github.com/ahmet-cetinkaya#4fd8c622e3e880403e69034d843b7713)
+- [Skip Silence Audio and Video Sync Fix - Tampermonkey](https://gist.github.com/ahmet-cetinkaya#037c3615d5372f73a7e63d1031e80377)
+- [Autohotkey script to Auto-close the Voicemeeter windows that open when startup.](https://gist.github.com/ahmet-cetinkaya#351ad4747740e933e6c6eff493a5cea6)
+- [Perfect Numbers - Javascript](https://gist.github.com/ahmet-cetinkaya#219c70d3187d8fd4f750c9f55f41f469)
 <!-- GISTS:END -->
