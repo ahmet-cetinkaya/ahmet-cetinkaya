@@ -13,4 +13,4 @@ jobs:
         with:
           comment_tag_name: 'GISTS'
           commit_message: '📝 Updated nane readme with the latest gists data'
-          feed_list: 'http://createfeed.fivefilters.org/extract.php?url=https%3A%2F%2Fgist.github.com%2Fahmet-cetinkaya&item=.gist-snippet&item_title=.gist-snippet-meta+span.f6.color-fg-muted&item_url=.gist-snippet-meta+%3E+ul+%3E+li%3Anth-child%281%29+%3E+a&item_desc=.gist-snippet-meta+div.d-inline-block.px-lg-2.px-0+span+.css-truncate-target&item_date=.gist-snippet-meta+time-ago&item_image=.gist-snippet-meta+img.avatar-user&max=5&order=document&guid=0'
+          feed_list: ${{ secrets.GISTS_FEED_URL }}
