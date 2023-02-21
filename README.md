@@ -25,5 +25,5 @@
 - [BTU energy unit deduce in cooling systems with fuzzy logic - MATLAB](https://gist.github.com/ahmet-cetinkaya/c7b34541af6859554d4497dd25742e0a)
 - [Skip Silence Audio and Video Sync Fix - Tampermonkey](https://gist.github.com/ahmet-cetinkaya/50782d593330abc1514cc86a210a8db4)
 - [Autohotkey script to Auto-close the Voicemeeter windows that open when startup.](https://gist.github.com/ahmet-cetinkaya/0f5f993256bc35b701543895b4fa4571)
-- [Friendly Numbers - Javascript](https://gist.github.com/ahmet-cetinkaya/d51d4063e0c0f97cb9486b5e0d5fbee8)
+- [Perfect Numbers - Javascript](https://gist.github.com/ahmet-cetinkaya/51a8a6cb0554978beadacd71dd90eafb)
 <!-- GISTS:END -->
