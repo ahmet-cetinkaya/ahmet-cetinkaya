@@ -1,24 +1,38 @@
-<h1 align='center'>My Additional Repositories</h1>
-<p align='center'>
-  <a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://img.shields.io/badge/my%20gists-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/ahmet-cetinkaya-core"><img src="https://user-images.githubusercontent.com/53148314/167849894-c2071306-a0e2-4171-a6ca-7f6522cf927a.svg" width="150"></a>
-  <a href="https://github.com/ahmet-cetinkaya-instruction"><img src="https://user-images.githubusercontent.com/53148314/196129117-fe2dd9bd-fc8a-49fa-a587-c1647424638d.svg" width="150"></a>
+<!-- ABOUT -->
+<h2 align='center'>Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Ahmet Çetinkaya</h1>
+
+I'm a passionate **🧑🏼‍💻 Computer Engineer** from Antalya, 🇹🇷 Turkey, whose love for technology began when I got my first computer at the age of six. Since then, I've built a diverse skill set in **web development, software architecture, problem-solving, and technical training**.
+
+Throughout my career, I've focused on:
+
+- Developing **high-quality software projects** grounded in solid architectural principles
+- Contributing to **open-source projects** and actively supporting the developer community
+- Embracing **collaboration and teamwork** to deliver impactful solutions
+
+I'm committed to continuous learning and sharing knowledge to help shape the future of technology.
+
+Thanks for visiting my GitHub profile! 🚀
+
+![Visitor Counter Stats](https://api.visitorbadge.io/api/VisitorHit?user=ahmet-cetinkaya&countColor=%237B1E7A)
+
+If you'd like to chat about **technology, software development, or potential opportunities**, feel free to reach out. 💬
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=lerna&logoColor=white)](https://www.linkedin.com/in/ahmet-cetinkaya/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://ahmetcetinkaya.me/contact/)
+
+For more information —including details about me, my resume, the technologies I use, my social media, and other links— please visit my website. 🌐
+
+[![Website](https://img.shields.io/badge/Website-F4D03E?style=for-the-badge&logo=awwwards&logoColor=black)](https://ahmetcetinkaya.me/)
+
+<!-- STATS -->
+<h2><h4><img src="https://img.shields.io/badge/Github-Stats-100000?style=for-the-badge&logo=github&logoColor=white" /></a><h4></h2>
+<p align="center">
+    <img align="center" src="./github-metrics.svg"/>
+    <img align="center" src="./github-metrics.plugin.languages.indepth.svg"/>
 </p>
 
-<h1 align='center'> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Ahmet Çetinkaya</h1>
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/ahmet-cetinkaya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<!--<a href="https://twitter.com/ahmetctnky_dev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
-<a href="mailto:ahmetcetinkaya7@outlook.com"><img src="https://img.shields.io/badge/EMail-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ahmetcetinkaya.me/"><img src="https://img.shields.io/badge/ahmetcetinkaya.me-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ahmet-cetinkaya"><img src="https://api.visitorbadge.io/api/VisitorHit?user=ahmet-cetinkaya&countColor=%237B1E7A" /></a>
-</p>
-<p align='center'>
-<a href="https://github.com/ahmet-cetinkaya"><img align="center" src="/github-metrics.svg" /></a><a href="https://github.com/ahmet-cetinkaya"><img align="center" src="/github-metrics.plugin.languages.indepth.svg" /></a>
-</p>
-
-## <a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://img.shields.io/badge/Latest-Gists-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- GIST FEED -->
+<h2><h4><a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://img.shields.io/badge/Gists-Latest-100000?style=for-the-badge&logo=github&logoColor=white" /></a></h4></h2>
 
 <!-- GISTS:START -->
 - [Cura Ender 3 BLTouch Custom Start GCode](https://gist.github.com/ahmet-cetinkaya/4fea5998f3fe1a1958d5587479959313)
