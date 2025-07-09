@@ -22,7 +22,7 @@ If you'd like to chat about **technology, software development, or potential opp
 
 For more information —including details about me, my resume, the technologies I use, my social media, and other links— please visit my website. 🌐
 
-[![Website](https://img.shields.io/badge/Website-F4D03E?style=for-the-badge&logo=awwwards&logoColor=black)](https://ahmetcetinkaya.me/)
+[![Website](https://img.shields.io/badge/ahmetcetinkaya.me-F4D03E?style=for-the-badge&logo=awwwards&logoColor=black)](https://ahmetcetinkaya.me/)
 
 <!-- STATS -->
 <h2><h4><img src="https://img.shields.io/badge/Github-Stats-100000?style=for-the-badge&logo=github&logoColor=white" /></a><h4></h2>
