@@ -29,6 +29,7 @@ For more information —including details about me, my resume, the technologies 
 <p align="center">
     <img align="center" src="./github-metrics.svg"/>
     <img align="center" src="./github-metrics.plugin.languages.indepth.svg"/>
+    <img align="center" src="./github-metrics.plugin.languages.recent.svg"/>
 </p>
 
 <!-- GIST FEED -->
