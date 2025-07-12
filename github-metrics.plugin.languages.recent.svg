@@ -16,44 +16,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.21mb of code in 407 edited files across 156 commits over last 14 days</small>
+                <small>estimation from 324kb of code in 291 edited files across 124 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.8818624119443" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="282.8818624119443" y="0" width="143.22326145038855" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="426.1051238623329" y="0" width="29.572621911532554" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="455.67774577386547" y="0" width="4.322254226134611" height="8" fill="#a3522f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="412.73920314554533" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="412.73920314554533" y="0" width="30.025404363422822" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="442.76460750896814" y="0" width="15.344490827620543" height="8" fill="#a3522f"/>
+                    <rect mask="url(#languages-bar)" x="458.1090983365887" y="0" width="1.8909016634113336" height="8" fill="#264b99"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JavaScript
-                            </div>
-                            <small>
-                                <div>171 kB</div>
-                                <div>61.5%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Kotlin
-                            </div>
-                            <small>
-                                <div>17.8 kB</div>
-                                <div>6.43%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -63,8 +37,8 @@
                                 Dart
                             </div>
                             <small>
-                                <div>86.5 kB</div>
-                                <div>31.14%</div>
+                                <div>70.2 kB</div>
+                                <div>89.73%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -76,7 +50,33 @@
                             </div>
                             <small>
                                 <div>2.61 kB</div>
-                                <div>0.94%</div>
+                                <div>3.34%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Kotlin
+                            </div>
+                            <small>
+                                <div>5.11 kB</div>
+                                <div>6.53%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#264b99" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Inno Setup
+                            </div>
+                            <small>
+                                <div>322 bytes</div>
+                                <div>0.41%</div>
                             </small>
                         </div>
                     </section>
