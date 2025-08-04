@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.76mb of code in 1399 edited files across 193 commits over last 14 days</small>
+                <small>estimation from 3.09mb of code in 1765 edited files across 214 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.40091191452996" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="240.40091191452996" y="0" width="188.34706454919356" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="428.7479764637235" y="0" width="16.47954173626943" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="445.2275181999929" y="0" width="14.772481800007057" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.94238845165978" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="230.94238845165978" y="0" width="194.83985442659466" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="425.78224287825446" y="0" width="18.444213061736896" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.22645593999135" y="0" width="15.773544060008668" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,20 +37,20 @@
                                 Dart
                             </div>
                             <small>
-                                <div>607 kB</div>
-                                <div>52.26%</div>
+                                <div>609 kB</div>
+                                <div>50.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Kotlin
+                                JavaScript
                             </div>
                             <small>
-                                <div>41.6 kB</div>
-                                <div>3.58%</div>
+                                <div>48.6 kB</div>
+                                <div>4.01%</div>
                             </small>
                         </div>
                     </section>
@@ -63,20 +63,20 @@
                                 Astro
                             </div>
                             <small>
-                                <div>475 kB</div>
-                                <div>40.95%</div>
+                                <div>514 kB</div>
+                                <div>42.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Kotlin
                             </div>
                             <small>
-                                <div>37.3 kB</div>
-                                <div>3.21%</div>
+                                <div>41.6 kB</div>
+                                <div>3.43%</div>
                             </small>
                         </div>
                     </section>
