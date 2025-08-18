@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 779kb of code in 1124 edited files across 176 commits over last 14 days</small>
+                <small>estimation from 697kb of code in 790 edited files across 205 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="362.88588747001626" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="362.88588747001626" y="0" width="48.820774153735904" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="411.7066616237521" y="0" width="37.89113276467836" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="449.5977943884305" y="0" width="10.402205611569508" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="406.34429508386324" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="406.34429508386324" y="0" width="48.90683608822843" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="455.25113117209173" y="0" width="2.706956135050681" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="457.9580873071424" y="0" width="2.041912692857613" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,8 +37,8 @@
                                 Dart
                             </div>
                             <small>
-                                <div>396 kB</div>
-                                <div>78.89%</div>
+                                <div>442 kB</div>
+                                <div>88.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,8 +49,8 @@
                                 Astro
                             </div>
                             <small>
-                                <div>41.3 kB</div>
-                                <div>8.24%</div>
+                                <div>2.95 kB</div>
+                                <div>0.59%</div>
                             </small>
                         </div>
                     </section>
@@ -64,19 +64,19 @@
                             </div>
                             <small>
                                 <div>53.3 kB</div>
-                                <div>10.61%</div>
+                                <div>10.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                Kotlin
                             </div>
                             <small>
-                                <div>11.3 kB</div>
-                                <div>2.26%</div>
+                                <div>2.23 kB</div>
+                                <div>0.44%</div>
                             </small>
                         </div>
                     </section>
