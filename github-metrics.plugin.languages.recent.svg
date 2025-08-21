@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 557kb of code in 679 edited files across 183 commits over last 14 days</small>
+                <small>estimation from 237kb of code in 490 edited files across 144 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="401.6282618720495" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="401.6282618720495" y="0" width="58.29738479750127" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.92564666955076" y="0" width="0.07435333044921011" height="8" fill="#264b99"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.9944973818188" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="261.9944973818188" y="0" width="197.8793135443477" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.87381092616647" y="0" width="0.12618907383351757" height="8" fill="#264b99"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Dart
                             </div>
                             <small>
-                                <div>367 kB</div>
-                                <div>87.31%</div>
+                                <div>70.5 kB</div>
+                                <div>56.96%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +48,8 @@
                                 Inno Setup
                             </div>
                             <small>
-                                <div>68 bytes</div>
-                                <div>0.02%</div>
+                                <div>34 bytes</div>
+                                <div>0.03%</div>
                             </small>
                         </div>
                     </section>
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>53.3 kB</div>
-                                <div>12.67%</div>
+                                <div>43.02%</div>
                             </small>
                         </div>
                     </section>
