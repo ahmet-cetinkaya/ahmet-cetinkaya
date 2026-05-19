@@ -61,7 +61,6 @@ I am a **Computer Engineer** based in Antalya, Turkey 🇹🇷. I focus on softw
 ## 📝 Recent Gists
 
 <!-- GISTS:START -->
-
 - [Ender 3 Pro BL-Touch Custom Start and End G-Code](https://gist.github.com/ahmet-cetinkaya/4fea5998f3fe1a1958d5587479959313)
 - [Leetcode Solution - 322. Coin Change](https://gist.github.com/ahmet-cetinkaya/ebc40f60131111f07546b31f0f87231d)
 - [BTU energy unit deduce in cooling systems with fuzzy logic - MATLAB](https://gist.github.com/ahmet-cetinkaya/c7b34541af6859554d4497dd25742e0a)
