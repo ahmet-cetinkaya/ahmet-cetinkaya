@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4D03E,100:38296E&height=250&section=header&text=Ahmet%20Çetinkaya&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Software%20Engineer%20%7C%20Open-Source%20Contributor%20%7C%20Lifelong%20Learner&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Ahmet Çetinkaya Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4D03E,100:38296E&height=250&section=header&text=Ahmet%20Çetinkaya&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Software%20Engineer%20%7C%20Lifelong%20Learner&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Ahmet Çetinkaya Banner" />
 </div>
 
 <!-- GREETING & ELEVATOR PITCH -->
