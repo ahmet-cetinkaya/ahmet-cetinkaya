@@ -35,6 +35,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
       - name: Recently used
         uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: github-metrics.plugin.languages.recent.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -44,3 +45,4 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
+          plugin_languages_indepth: no
