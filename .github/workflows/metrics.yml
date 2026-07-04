@@ -1,8 +1,7 @@
 name: Metrics
 
 on:
-  # Schedule weekly updates
-  schedule: [{ cron: "0 4 * * 0" }]
+  schedule: [{ cron: "0 4 * * 0" }] # Weekly at 4:00 UTC
   workflow_dispatch:
 
 jobs:
