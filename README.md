@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4D03E,100:38296E&height=250&section=header&text=Ahmet%20Çetinkaya&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Software%20Engineer%20%7C%20Open-Source%20Contributor%20%7C%20Lifelong%20Learner&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Ahmet Çetinkaya Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4D03E,100:38296E&height=250&section=header&text=Ahmet%20Çetinkaya&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Software%20Engineer%20%7C%20Lifelong%20Learner&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Ahmet Çetinkaya Banner" />
 </div>
 
 <!-- GREETING & ELEVATOR PITCH -->
@@ -61,12 +61,11 @@ I am a **Computer Engineer** based in Antalya, Turkey 🇹🇷. I focus on softw
 ## 📝 Recent Gists
 
 <!-- GISTS:START -->
-
+- [Leetcode Solution - 258. Add Digits](https://gist.github.com/ahmet-cetinkaya/5384cc2d23b5ae3fc07c3f06585792ec)
 - [Ender 3 Pro BL-Touch Custom Start and End G-Code](https://gist.github.com/ahmet-cetinkaya/4fea5998f3fe1a1958d5587479959313)
 - [Leetcode Solution - 322. Coin Change](https://gist.github.com/ahmet-cetinkaya/ebc40f60131111f07546b31f0f87231d)
 - [BTU energy unit deduce in cooling systems with fuzzy logic - MATLAB](https://gist.github.com/ahmet-cetinkaya/c7b34541af6859554d4497dd25742e0a)
 - [Skip Silence Audio and Video Sync Fix - Tampermonkey](https://gist.github.com/ahmet-cetinkaya/50782d593330abc1514cc86a210a8db4)
-- [Autohotkey script to Auto-close the Voicemeeter windows that open when startup.](https://gist.github.com/ahmet-cetinkaya/0f5f993256bc35b701543895b4fa4571)
 <!-- GISTS:END -->
 
 <a href="https://gist.github.com/ahmet-cetinkaya"><img src="https://img.shields.io/badge/View_All_Gists-100000?style=for-the-badge&logo=github&logoColor=white" alt="Gists" /></a>
