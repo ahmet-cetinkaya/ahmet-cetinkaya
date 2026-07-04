@@ -18,7 +18,6 @@
 </div>
 
 <!-- ABOUT ME -->
-
 ### 🚀 About Me
 
 I am a **Computer Engineer** based in Antalya, Turkey 🇹🇷. I focus on software architecture and building reliable applications. I enjoy writing clean code, helping other developers, and sharing what I learn.
@@ -37,27 +36,18 @@ I am a **Computer Engineer** based in Antalya, Turkey 🇹🇷. I focus on softw
 </table>
 
 <!-- STATS SECTION -->
-
 ## 📊 GitHub Stats
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" colspan="2" style="border: none;">
       <img src="./github-metrics.svg" alt="GitHub Metrics Overview" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="border: none;">
       <img src="./github-metrics.plugin.languages.indepth.svg" alt="Language Indepth Analysis" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="./github-metrics.plugin.languages.recent.svg" alt="Recent Languages" />
     </td>
   </tr>
 </table>
 
 <!-- GIST FEED -->
-
 ## 📝 Recent Gists
 
 <!-- GISTS:START -->
@@ -72,6 +62,7 @@ I am a **Computer Engineer** based in Antalya, Turkey 🇹🇷. I focus on softw
 
 ---
 
+<!-- VISITOR COUNTER -->
 <div align="center">
   <p><i>Thanks for visiting my profile!</i></p>
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=ahmet-cetinkaya&countColor=%237B1E7A" alt="Visitor Counter" />
