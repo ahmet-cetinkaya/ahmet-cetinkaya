@@ -27,5 +27,6 @@ jobs:
           plugin_languages_ignored: ${{ env.PLUGIN_LANGUAGES_IGNORED }}
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_limit: 8
+          plugin_languages_limit: 21
           plugin_languages_analysis_timeout: 15
+          plugin_languages_colors: rust:#dea584, typescript:#3178c6, csharp:#5a25a2, javascript:#f1e05a, mdx:#fcb32c, astro:#ff5a03, renderscript:#888888
