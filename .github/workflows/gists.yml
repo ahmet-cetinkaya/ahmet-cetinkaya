@@ -1,8 +1,9 @@
 name: Latest gists workflow
 
 on:
+  # Schedule weekly updates on Mondays at 04:00 UTC
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 4 * * 1"
   workflow_dispatch:
 
 jobs:
