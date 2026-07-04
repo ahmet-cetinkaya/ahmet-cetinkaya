@@ -22,7 +22,6 @@ jobs:
         with:
           filename: github-metrics.plugin.languages.indepth.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
           plugin_languages: yes
           plugin_languages_ignored: ${{ env.PLUGIN_LANGUAGES_IGNORED }}
           plugin_languages_indepth: yes
