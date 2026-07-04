@@ -29,3 +29,4 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
+          plugin_languages_colors: 0:#dea584, 1:#3178c6, 2:#5a25a2, 3:#f1e05a
